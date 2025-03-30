@@ -1,0 +1,19 @@
+
+Clicked at (50, 396)
+Vertex clicked: 1
+Robot 0 is at vertex 1 in robot_positions
+Vertex 1 color changed to red
+Clicked at (202, 397)
+Lane clicked: 4, position: 0.5228526848913908
+Robot 0 2025-03-30 23:42:19 (50.0, 393.61230735012714) (525.7710240566846, 548.89866423578) Lane 4
+Clicked at (356, 247)
+Vertex clicked: 6
+No robot found at vertex 6
+Error in add_robot_to_canvas: list index out of range
+Invalid or empty graph data.
+Error in add_robot_to_canvas: list index out of range
+Invalid or empty graph data.
+Error in add_robot_to_canvas: list index out of range
+Invalid or empty graph data.
+Error in add_robot_to_canvas: list index out of range
+Invalid or empty graph data.
